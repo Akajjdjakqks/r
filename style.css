@@ -1,0 +1,44 @@
+table {
+    font-family: iranblack;
+    background-color: rgb(66, 66, 66);
+    border-color: rgb(0, 0, 0);
+    font-size: 100%;
+    color: black;
+    border-color: gray;
+    width: 90%;
+    margin: auto;
+    border-collapse: collapse;
+    background: #222;
+    color: rgb(197, 197, 197);    
+    text-align: center;
+    border-radius: 10px;
+    overflow: hidden;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    border: 1px solig rgba(255, 255, 255, 0.18);
+    border-radius: 32px;
+
+}
+body {
+    background-color: rgb(31, 31, 31);
+}
+p {
+    font-family: iranblack;
+
+}
+
+html {
+    color-scheme: dark;
+}
+td {
+    border-radius: 5%;
+    padding: 12px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    font-size: 16px;
+}
+tr:hover {
+    background: rgba(255, 255, 255, 0.1);
+    transition: 0.3s;
+}
